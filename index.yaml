@@ -6,10 +6,10 @@ entries:
     created: "2022-06-30T19:53:51.458583408+01:00"
     dependencies:
     - name: pages-api
-      repository: http://localhost:8080
+      repository: https://harikrishna1705.github.io/hari.github.io/
       version: 1.x.x
     - name: mysql
-      repository: http://localhost:8080
+      repository: https://harikrishna1705.github.io/hari.github.io/
       version: 1.x.x
     description: A Helm chart for Pages Application
     digest: 3080fc09ef876a4d9eb2d67aba0cd00785a25cdcb2716ba8fbb7a74b1be7f33f
